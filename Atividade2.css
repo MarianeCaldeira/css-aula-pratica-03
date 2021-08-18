@@ -1,0 +1,13 @@
+h1 {
+    text-transform: uppercase;
+    color: rgb(201, 9, 9);
+}
+figure {
+    float: right;
+}
+h4 {
+    text-transform: uppercase;
+}
+ul, ol {
+    font-style: italic;
+}

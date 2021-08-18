@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 10px;
+}
+div {
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: right;
+    word-spacing: 6px;
+    width: 60%;
+    height: 400px;
+    background-color: coral;
+}
+#paragrafo {
+    color: blue;
+    font-size: 12px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    height: 3px;
+    text-align: left;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-indent: 25px;
+}

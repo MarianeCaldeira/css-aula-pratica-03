@@ -1,0 +1,15 @@
+h1 {
+    font-style: italic;
+}
+.p1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.p2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.p3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
